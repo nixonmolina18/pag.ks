@@ -82,7 +82,7 @@ img::-moz-selection {
 
 #mainNav {
   border-bottom: 0.5px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #00345c;
   font-family: 'Roboto', sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -110,7 +110,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #F05F40;
+  color: #0345b2;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
@@ -133,7 +133,7 @@ img::-moz-selection {
     color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: #00345c;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 0rem;

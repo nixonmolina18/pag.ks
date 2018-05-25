@@ -189,7 +189,19 @@ header.masthead p {
     padding-top: 100px;
 }
 .pl50{
-  padding-left: 100px;
+  padding-left: 500px;
+}
+
+.text-gris{
+  font-size: 2.5rem;
+  font-weight: 500;
+  padding: 0.01rem 0rem;
+  text-transform: uppercase;
+  color: #404a53;
+}
+
+.text-gris1{
+  color: #696767;
 }
 
 .c1{
